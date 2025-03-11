@@ -12,8 +12,6 @@
 
 (def subjects-that-i-love-talking-about
   ["Architecture" "Design System" "Server Driven UI" "Design Patterns"])
-
-(println "get in touch ⬇️")
 ```
 
 <!---
